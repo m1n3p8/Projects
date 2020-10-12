@@ -11,8 +11,11 @@
 
 ## Стек
 * pandas
-* matplotlib
 * numpy
+* datetime
+* seaborn 
+* matplotlib.pyplot
+* scipy.stats
 
 ***
 
